@@ -38,10 +38,10 @@ Fall term:
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
 | Sept. 12 | Intro    |  |  |
-| Sept. 14 | Faculty intros |  |  |
-| Sept. 19 | The business of being a graduate student   |  |  |
-| Sept. 21 | Faculty intros  |  |  |
-| Sept. 26 | Faculty intros  |  |  |
+| Sept. 14 | Faculty intros: Gwen Eadie, Maya Fishbach, Laurie Rousseau-Nepton|  |  |
+| Sept. 19 | The business of being a graduate student |  |  |
+| Sept. 21 | Faculty intros: Bart Ripperda, Juan Mena Parra, Adam Hincks |  |  |
+| Sept. 26 | Faculty intros: Marta Bryan, Ting Li, Josh Speagle |  |  |
 | Sept. 28 | Intro to writing in astronomy |  |  |
 | Oct. 3   | **No class**  |  |  |
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** |  |
@@ -53,14 +53,14 @@ Fall term:
 | Oct. 26  | Proposal co-writing session |  |  |
 | Oct. 31  | Version control with git and GitHub | **Project proposal** |  |
 | Nov. 2   | Scientific computing in Python  |  |  |
-| Nov. 7   | Collaborations large and small |  |  |
+| Nov. 7   | How to write a good research application |  |  |
 | Nov. 9   | Faculty intros  | **Peer feedback on proposal** |  |
 | Nov. 14  | Basic stats intro (Gwen Eadie?)  |  |  |
 | Nov. 16  | Faculty intros  | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 23  | Presentations  | **Proposal presentations**  |  |
 | Nov. 28  | How to access astronomical data |  |  |
-| Nov. 30  | TBD  |  |  |
+| Nov. 30  | Collaborations large and small  |  |  |
 | Dec. 5   | End-of-term check-in  |  |  |
 | Dec. 7   | End-of-term check-in  |  |  |
 
