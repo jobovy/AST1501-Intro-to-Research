@@ -18,17 +18,72 @@ This course is intended to introduce first-year graduate students to research in
 astronomy and astrophysics. The course will consist of a series of lectures on
 various aspects of research and a research project.
 
+## Learning objectives
+
+By the end of the 15011/1500 set of courses, students should:
+
+* Have a good understanding of the variety of research pursued in the astronomy units at the University of Toronto.
+
+* Have experienced research in two separate research areas.
+
+* Be able to write a research proposal.
+
+* Be able to present their research to their peers and to faculty members.
+
+* Be able to summarize their research in the form of a scientific paper.
+
+* Understand how to search and access the astronomical literature
+
+* Be able to use the Python programming language to solve research problems.
+
+* Have basic familiarity with the UNIX command line.
+
+* Be able to use version control to manage their research code.
+
+* Be able to use the LaTeX typesetting system and collaborative writing tools to write research papers.
+
+* Have a basic understanding of the use of statistics in astronomy.
+
+* Be able to provide critical and constructive feedback on their peers' research.
+
+* Have an advisor for the rest of their PhD!
+
 ## Main project deadlines
 
 * **Project supervisor**: Oct. 5
 * **Project proposal**: 
   * First draft: Oct. 31
-   * Peer feedback: Nov. 9
-   * Revised draft: Nov. 16
-    * Presentations: Nov. 21, 23
-* **Mid-project presentation**: late January
+  * Peer feedback: Nov. 9
+  * Revised draft: Nov. 16
+  * Presentations: Nov. 21, 23
+* **Mid-project presentation**: Jan. 29 and Feb. 1
 * **Abstract for final talk**: Feb. 26
-* **Final project**: Similar set of deliverables as project proposal, 2nd half of March to early April
+* **Final project**: 
+  * First draft: Mar. 21
+  * Peer feedback: Mar. 29
+  * Revised draft: Apr. 5
+  * Presentations: mid April
+
+## Grading scheme
+
+* Participation in class and department events (colloquia, TASTY, etc.): 25%
+* Project proposal: 20%, breakdown:
+  * First draft: 5%
+  * Peer feedback: 5%
+  * Revised draft: 5%
+  * Presentations: 5%
+* Monthly check-ins: 10%
+* Mid-project presentation: 15%
+* Final project: 30%, breakdown:
+  * First draft: 8%
+  * Peer feedback: 7%
+  * Revised draft: 5%
+  * Presentations: 10%
+
+Expectations:
+* You are expected to (and encouraged to!) to get feedback on your proposal, presentations, and final write-up from your supervisor, research-group co-workers, and 1501/1500 classmates. But any work that you submit should be your own work. If you use someone else's work, you should cite it. If you use someone else's code, you should cite it and make sure that you understand it. Refer to the [University of Toronto's Code of Behaviour on Academic Matters](http://www.governingcouncil.utoronto.ca/policies/behaveac.htm) for full details regarding correct academic behavior and the avoidance of plagiarism.
+* You are also expected to provide critical and constructive feedback to your peers. The peer feedback will be graded, and you will be graded on the quality of your feedback.
+* **Late-work policy**: under special circumstances, late work will be accepted, but this needs to be requested ahead of the deadline.
 
 
 ## Course schedule
@@ -38,9 +93,9 @@ Fall term:
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
 | Sept. 12 | Intro    |  |  |
-| Sept. 14 | Faculty intros: Gwen Eadie, Maya Fishbach, Laurie Rousseau-Nepton|  |  |
+| Sept. 14 | Faculty intros: Gwen Eadie, Bart Ripperda, Laurie Rousseau-Nepton|  |  |
 | Sept. 19 | The business of being a graduate student |  |  |
-| Sept. 21 | Faculty intros: Bart Ripperda, Juan Mena Parra, Adam Hincks |  |  |
+| Sept. 21 | Faculty intros: Maya Fishbach, Juan Mena Parra, Adam Hincks |  |  |
 | Sept. 26 | Faculty intros: Marta Bryan, Ting Li, Josh Speagle |  |  |
 | Sept. 28 | Intro to writing in astronomy |  |  |
 | Oct. 3   | **No class**  |  |  |
@@ -69,26 +124,26 @@ Winter term (tentative):
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
 | Jan. 8   | Welcome back, goals for the term  |  |  |
-| Jan. 11  | TBD  |  |  |
+| Jan. 11  | How to make a website  |  |  |
 | Jan. 15  | How to make a good plot |  |  |
 | Jan. 18  | How to write an observing proposal (Ting Li?)  |  |  |
 | Jan. 22  | TBD  |  |  |
 | Jan. 25  | TBD  |  |  |
-| Jan. 29  | TBD  |  |  |
-| Feb. 1   | TBD  |  |  |
-| Feb. 5   | How to make a website |  |  |
-| Feb. 8   | Automating tasks |  |  |
-| Feb. 12  | TBD  |  |  |
+| Jan. 29  | Presentations  | **Mid-project presentations** |  |
+| Feb. 1   | Presentations  | **Mid-project presentations** |  |
+| Feb. 5   | **No class** |  |  |
+| Feb. 8   | **No class** |  |  |
+| Feb. 12  | Automating tasks |  |  |
 | Feb. 15  | Using coding tools |  |  |
 | Feb. 19  | **No class (Reading week)**  |  |  |
 | Feb. 22  | **No class (Reading week)**   |  |  |
-| Feb. 26  | Testing code |  | **Abstract for final talk** |
+| Feb. 26  | Testing code |  **Abstract for final talk** | |
 | Feb. 29  | Documenting code |  |  |
 | Mar. 4   | Referee reports |  |  |
 | Mar. 7   | TBD  |  |  |
 | Mar. 11  | TBD  |  |  |
 | Mar. 14  | TBD  |  |  |
-| Mar. 18  | TBD  |  | **AST1500 supervisor** |
+| Mar. 18  | TBD  |  **AST1500 supervisor** | |
 | Mar. 21  | TBD  |  |  |
 | Mar. 25  | TBD  |  |  |
 | Mar. 28  | TBD  |  |  |
