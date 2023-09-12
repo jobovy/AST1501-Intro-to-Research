@@ -92,63 +92,63 @@ Fall term:
 
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
-| Sept. 12 | Intro    |  |  |
-| Sept. 14 | Faculty intros: Gwen Eadie, Bart Ripperda, Laurie Rousseau-Nepton|  |  |
-| Sept. 19 | The business of being a graduate student |  |  |
-| Sept. 21 | Faculty intros: Maya Fishbach, Juan Mena Parra, Adam Hincks |  |  |
-| Sept. 26 | Faculty intros: Marta Bryan, Ting Li, Josh Speagle |  |  |
-| Sept. 28 | Intro to writing in astronomy |  |  |
+| Sept. 12 | Intro    | - | [slides](slides/L1-AST1501-2023-intro.pdf) |
+| Sept. 14 | Faculty intros: Gwen Eadie, Bart Ripperda, Laurie Rousseau-Nepton| - |  |
+| Sept. 19 | The business of being a graduate student | - |  |
+| Sept. 21 | Faculty intros: Maya Fishbach, Juan Mena Parra, Adam Hincks | - |  |
+| Sept. 26 | Faculty intros: Marta Bryan, Ting Li, Josh Speagle | - |  |
+| Sept. 28 | Intro to writing in astronomy | - |  |
 | Oct. 3   | **No class**  |  |  |
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** |  |
-| Oct. 10  | Intro to Python in astro I |  |  |
-| Oct. 12  | Intro to Python in astro II |  |  |
-| Oct. 17  | Faculty intros  |  |  |
-| Oct. 19  | Faculty intros  |  |  |
-| Oct. 24  | Panel on supervision  |  |  |
-| Oct. 26  | Proposal co-writing session |  |  |
+| Oct. 10  | Intro to Python in astro I | - |  |
+| Oct. 12  | Intro to Python in astro II | - |  |
+| Oct. 17  | Faculty intros  | - |  |
+| Oct. 19  | Faculty intros  | - |  |
+| Oct. 24  | Panel on supervision  | - |  |
+| Oct. 26  | Proposal co-writing session | - |  |
 | Oct. 31  | Version control with git and GitHub | **Project proposal** |  |
-| Nov. 2   | Scientific computing in Python  |  |  |
-| Nov. 7   | How to write a good research application |  |  |
+| Nov. 2   | Scientific computing in Python  | - |  |
+| Nov. 7   | How to write a good research application | - |  |
 | Nov. 9   | Faculty intros  | **Peer feedback on proposal** |  |
-| Nov. 14  | Basic stats intro (Gwen Eadie?)  |  |  |
+| Nov. 14  | Basic stats intro (Gwen Eadie?)  | - |  |
 | Nov. 16  | Faculty intros  | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 23  | Presentations  | **Proposal presentations**  |  |
-| Nov. 28  | How to access astronomical data |  |  |
-| Nov. 30  | Collaborations large and small  |  |  |
-| Dec. 5   | End-of-term check-in  |  |  |
-| Dec. 7   | End-of-term check-in  |  |  |
+| Nov. 28  | How to access astronomical data | - |  |
+| Nov. 30  | Collaborations large and small  | - |  |
+| Dec. 5   | End-of-term check-in  | - |  |
+| Dec. 7   | End-of-term check-in  | - |  |
 
 Winter term (tentative):
 
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
-| Jan. 8   | Welcome back, goals for the term  |  |  |
-| Jan. 11  | How to make a website  |  |  |
-| Jan. 15  | How to make a good plot |  |  |
-| Jan. 18  | How to write an observing proposal (Ting Li?)  |  |  |
-| Jan. 22  | TBD  |  |  |
-| Jan. 25  | TBD  |  |  |
+| Jan. 8   | Welcome back, goals for the term  | - |  |
+| Jan. 11  | How to make a website  | - |  |
+| Jan. 15  | How to make a good plot | - |  |
+| Jan. 18  | How to write an observing proposal (Ting Li?)  | - |  |
+| Jan. 22  | Mid-project check-in | - |  |
+| Jan. 25  | Mid-project check-in | - |  |
 | Jan. 29  | Presentations  | **Mid-project presentations** |  |
 | Feb. 1   | Presentations  | **Mid-project presentations** |  |
-| Feb. 5   | **No class** |  |  |
-| Feb. 8   | **No class** |  |  |
-| Feb. 12  | Automating tasks |  |  |
-| Feb. 15  | Using coding tools |  |  |
+| Feb. 5   | **No class** | - |  |
+| Feb. 8   | **No class** | - |  |
+| Feb. 12  | Automating tasks | - |  |
+| Feb. 15  | Using coding tools | - |  |
 | Feb. 19  | **No class (Reading week)**  |  |  |
 | Feb. 22  | **No class (Reading week)**   |  |  |
 | Feb. 26  | Testing code |  **Abstract for final talk** | |
-| Feb. 29  | Documenting code |  |  |
-| Mar. 4   | Referee reports |  |  |
-| Mar. 7   | TBD  |  |  |
-| Mar. 11  | TBD  |  |  |
-| Mar. 14  | TBD  |  |  |
+| Feb. 29  | Documenting code | - |  |
+| Mar. 4   | Referee reports | - |  |
+| Mar. 7   | TBD  | - |  |
+| Mar. 11  | TBD  | - |  |
+| Mar. 14  | TBD  | - |  |
 | Mar. 18  | TBD  |  **AST1500 supervisor** | |
-| Mar. 21  | TBD  |  |  |
-| Mar. 25  | TBD  |  |  |
-| Mar. 28  | TBD  |  |  |
-| Apr. 1   | TBD  |  |  |
-| Apr. 4   | TBD  |  |  |
+| Mar. 21  | TBD  | - |  |
+| Mar. 25  | TBD  | - |  |
+| Mar. 28  | TBD  | - |  |
+| Apr. 1   | TBD  | - |  |
+| Apr. 4   | TBD  | - |  |
 
 
 
