@@ -2,6 +2,15 @@
 Materials for the AST1501 "Introduction to Research" graduate course at the University 
 of Toronto's Department of Astronomy & Astrophysics.
 
+## Table of Contents
+
+1. [Logistics](#logistics)
+2. [Course Description](#course-description)
+3. [Learning Objectives](#learning-objectives)
+4. [Main Project Deadlines](#main-project-deadlines)
+5. [Grading Scheme](#grading-scheme)
+6. [Course Schedule](#course-schedule)
+
 ## Logistics
 
 * Meeting time / room: 
