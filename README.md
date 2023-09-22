@@ -105,7 +105,7 @@ Fall term:
 | Sept. 14 | Faculty intros: Gwen Eadie, Bart Ripperda, Laurie Rousseau-Nepton| - |  |
 | Sept. 19 | The business of being a graduate student | - | [slides](slides/L2-AST1501-2023-being-a-grad-student.pdf) |
 | Sept. 21 | Faculty intros: Maya Fishbach, Juan Mena Parra, Adam Hincks | - |  |
-| Sept. 26 | Faculty intros: Marta Bryan, Ting Li, Josh Speagle | - |  |
+| Sept. 26 | Faculty intros: Marta Bryan, Josh Speagle, Ting Li | - |  |
 | Sept. 28 | Intro to writing in astronomy | - |  |
 | Oct. 3   | **No class**  |  |  |
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** |  |
