@@ -108,7 +108,7 @@ Fall term:
 | Sept. 26 | Faculty intros: Marta Bryan, Josh Speagle, Ting Li | - |  |
 | Sept. 28 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2023-intro-writing.pdf) |
 | Oct. 3   | **No class**  |  |  |
-| Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** |  |
+| Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** | [slides](slides/20231005-AstroLitSearching-NuReeLee.pdf) |
 | Oct. 10  | Intro to computing in astro | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits) |
 | Oct. 12  | Intro to Python in astro | - |  |
 | Oct. 17  | Faculty intros  | - |  |
