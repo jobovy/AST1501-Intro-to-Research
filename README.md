@@ -109,22 +109,22 @@ Fall term:
 | Sept. 28 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2023-intro-writing.pdf) |
 | Oct. 3   | **No class**  |  |  |
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** |  |
-| Oct. 10  | Intro to Python in astro I | - |  |
-| Oct. 12  | Intro to Python in astro II | - |  |
+| Oct. 10  | Intro to computing in astro | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits) |
+| Oct. 12  | Intro to Python in astro | - |  |
 | Oct. 17  | Faculty intros  | - |  |
 | Oct. 19  | Faculty intros  | - |  |
 | Oct. 24  | Panel on supervision  | - |  |
 | Oct. 26  | Proposal co-writing session | - |  |
-| Oct. 31  | Version control with git and GitHub | **Project proposal** |  |
+| Oct. 31  | Scientific computing in Python | **Project proposal** |  |
 | Nov. 2   | How to write a good research application | - |  |
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
-| Nov. 14  | Basic stats intro (Gwen Eadie?)  | - |  |
+| Nov. 14  | How to access astronomical data | - |  |
 | Nov. 16  | Faculty intros  | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
-| Nov. 23  | Presentations  | **Proposal presentations**  |  |
-| Nov. 28  | How to access astronomical data | - |  |
-| Nov. 30  | Scientific computing in Python | - |  |
+| Nov. 23  | Basic stats intro I (Gwen Eadie)  | - |  |
+| Nov. 28  | Presentations  | **Proposal presentations**  |  |
+| Nov. 30  | Basic stats intro II (Gwen Eadie)  | - |  |
 | Dec. 5   | End-of-term check-in  | - |  |
 | Dec. 7   | End-of-term check-in  | - |  |
 
