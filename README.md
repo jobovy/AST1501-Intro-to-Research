@@ -111,8 +111,8 @@ Fall term:
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** | [slides](slides/20231005-AstroLitSearching-NuReeLee.pdf) |
 | Oct. 10  | Intro to computing in astro | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2023-intro-computing.pdf) |
 | Oct. 12  | Intro to Python in astro | - |  |
-| Oct. 17  | Faculty intros  | - |  |
-| Oct. 19  | Faculty intros  | - |  |
+| Oct. 17  | Faculty intros: Keith Vanderlinde, Peter Martin | - |  |
+| Oct. 19  | Faculty intros: Dae-Sik Moon, Renee Hlozek, Diana Valencia | - |  |
 | Oct. 24  | Panel on supervision  | - |  |
 | Oct. 26  | Proposal co-writing session | - |  |
 | Oct. 31  | Scientific computing in Python | **Project proposal** |  |
@@ -120,7 +120,7 @@ Fall term:
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
 | Nov. 14  | How to access astronomical data | - |  |
-| Nov. 16  | Faculty intros  | **Revised proposal** |  |
+| Nov. 16  | Faculty intros: Roberto Abraham, Hanno Rein, Chris Matzner | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 23  | Basic stats intro I (Gwen Eadie)  | - |  |
 | Nov. 28  | Presentations  | **Proposal presentations**  |  |
