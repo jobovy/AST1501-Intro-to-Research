@@ -60,11 +60,11 @@ By the end of the 15011/1500 set of courses, students should:
 ## Main project deadlines
 
 * **Project supervisor**: Oct. 5
-* **Project proposal**: 
+* [**Project proposal**](Proposal.md):
   * First draft: Oct. 31
   * Peer feedback: Nov. 9
   * Revised draft: Nov. 16
-  * Presentations: Nov. 21, 23
+  * Presentations: Nov. 21, 28
 * **Mid-project presentation**: Jan. 29 and Feb. 1
 * **Abstract for final talk**: Feb. 26
 * **Final project**: 
@@ -76,7 +76,7 @@ By the end of the 15011/1500 set of courses, students should:
 ## Grading scheme
 
 * Participation in class and department events (colloquia, TASTY, etc.): 25%
-* Project proposal: 20%, breakdown:
+* [Project proposal](Proposal.md): 20%, breakdown:
   * First draft: 5%
   * Peer feedback: 5%
   * Revised draft: 5%
