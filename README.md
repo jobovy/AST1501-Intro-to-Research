@@ -120,7 +120,7 @@ Fall term:
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
 | Nov. 14  | How to access astronomical data | - |  |
-| Nov. 16  | Faculty intros: Roberto Abraham, Hanno Rein, Chris Matzner | **Revised proposal** |  |
+| Nov. 16  | Faculty intros: Roberto Abraham, Hanno Rein (remote), Chris Matzner | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 23  | Basic stats intro I (Gwen Eadie)  | - |  |
 | Nov. 28  | Presentations  | **Proposal presentations**  |  |
