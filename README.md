@@ -109,13 +109,13 @@ Fall term:
 | Sept. 28 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2023-intro-writing.pdf) |
 | Oct. 3   | **No class**  |  |  |
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** | [slides](slides/20231005-AstroLitSearching-NuReeLee.pdf) |
-| Oct. 10  | Intro to computing in astro | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2023-intro-computing.pdf) |
-| Oct. 12  | Intro to Python in astro | - |  |
+| Oct. 10  | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2023-intro-computing.pdf) |
+| Oct. 12  | Intro to computing in astro II | - | [slides](slides/L5-AST1501-2023-intro-computing-II.pdf) |
 | Oct. 17  | Faculty intros: Keith Vanderlinde, Peter Martin | - |  |
 | Oct. 19  | Faculty intros: Dae-Sik Moon, Renee Hlozek, Diana Valencia | - |  |
-| Oct. 24  | Panel on supervision  | - |  |
+| Oct. 24  | Intro to computing in astro IIII | - |  |
 | Oct. 26  | Proposal co-writing session | - |  |
-| Oct. 31  | Scientific computing in Python | **Project proposal** |  |
+| Oct. 31  | Panel on supervision | **Project proposal** |  |
 | Nov. 2   | How to write a good research application | - |  |
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
