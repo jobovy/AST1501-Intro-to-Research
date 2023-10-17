@@ -111,8 +111,8 @@ Fall term:
 | Oct. 5   | Library resources (NuRee Lee)  | **Project supervisor** | [slides](slides/20231005-AstroLitSearching-NuReeLee.pdf) |
 | Oct. 10  | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2023-intro-computing.pdf) |
 | Oct. 12  | Intro to computing in astro II | - | [slides](slides/L5-AST1501-2023-intro-computing-II.pdf) |
-| Oct. 17  | Faculty intros: Keith Vanderlinde, Peter Martin | - |  |
-| Oct. 19  | Faculty intros: Dae-Sik Moon, Renee Hlozek, Diana Valencia | - |  |
+| Oct. 17  | Faculty intros: Dae-Sik Moon, Peter Martin | - |  |
+| Oct. 19  | Faculty intros: Keith Vanderlinde, Renee Hlozek, Diana Valencia | - |  |
 | Oct. 24  | Intro to computing in astro IIII | - |  |
 | Oct. 26  | Proposal co-writing session | - |  |
 | Oct. 31  | Panel on supervision | **Project proposal** |  |
