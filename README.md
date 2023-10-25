@@ -113,7 +113,7 @@ Fall term:
 | Oct. 12  | Intro to computing in astro II | - | [slides](slides/L5-AST1501-2023-intro-computing-II.pdf) |
 | Oct. 17  | Faculty intros: Dae-Sik Moon, Peter Martin | - |  |
 | Oct. 19  | Faculty intros: Keith Vanderlinde, Renee Hlozek, Diana Valencia | - |  |
-| Oct. 24  | Intro to computing in astro IIII | - |  |
+| Oct. 24  | Intro to computing in astro IIII | - | [slides](slides/L6-AST1501-2023-intro-computing-III.pdf) |
 | Oct. 26  | Proposal co-writing session | - |  |
 | Oct. 31  | Panel on supervision | **Project proposal** |  |
 | Nov. 2   | How to write a good research application | - |  |
