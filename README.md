@@ -59,6 +59,8 @@ By the end of the 15011/1500 set of courses, students should:
 
 ## Main project deadlines
 
+All submission deadlines are at 5pm of the day listed below.
+
 * **Project supervisor**: Oct. 5
 * [**Project proposal**](Proposal.md):
   * First draft: Oct. 31
