@@ -26,7 +26,8 @@ proposal on [Overleaf](https://www.overleaf.com/), so you
 can easily share it with your supervisor, your peers, and with the course instructor. The 
 detailed structure of the proposal is up to you, but it should definitely contain 
 (i) an introduction, (ii) a detailed timeline for the project, and (iii) a list of
-references. As discussed above, you will need to motivate your project, provide the 
+references; an abstract can be helpful, but is not required. 
+As discussed above, you will need to motivate your project, provide the 
 broader context and the background material, and describe the methods and/or data 
 you will use to carry out your project and you should arrange this material into 
 sections and subsections as you see fit. The timeline should give a detailed breakdown
@@ -50,7 +51,7 @@ all aspects of the proposal and, if appropriate, suggest ways to improve the pro
 The peer feedback should a few hundred words long (it can include a brief summary of 
 the proposal).
 
-The peeer feedback should be sent by email to both the 
+The peer feedback should be sent by email to both the 
 proposal's author and the course instructor by the deadline.
 
 ## Revised draft
