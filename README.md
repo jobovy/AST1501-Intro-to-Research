@@ -117,7 +117,7 @@ Fall term:
 | Oct. 19  | Faculty intros: Keith Vanderlinde, Renee Hlozek, Diana Valencia | - |  |
 | Oct. 24  | Intro to computing in astro IIII | - | [slides](slides/L6-AST1501-2023-intro-computing-III.pdf) |
 | Oct. 26  | Proposal co-writing session | - |  |
-| Oct. 31  | Panel on supervision | **Project proposal** |  |
+| Oct. 31  | ~~Panel on supervision~~ cancelled | **Project proposal** |  |
 | Nov. 2   | How to write a good research application | - |  |
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
