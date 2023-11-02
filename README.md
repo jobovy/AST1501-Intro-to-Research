@@ -118,7 +118,7 @@ Fall term:
 | Oct. 24  | Intro to computing in astro IIII | - | [slides](slides/L6-AST1501-2023-intro-computing-III.pdf) |
 | Oct. 26  | Proposal co-writing session | - |  |
 | Oct. 31  | ~~Panel on supervision~~ cancelled | **Project proposal** |  |
-| Nov. 2   | How to write a good research application | - |  |
+| Nov. 2   | How to write a good research application | - | [slides](slides/L7-AST1501-2023-proposals-I.pdf) |
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
 | Nov. 14  | How to access astronomical data | - |  |
