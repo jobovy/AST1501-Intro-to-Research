@@ -121,7 +121,7 @@ Fall term:
 | Nov. 2   | How to write a good research application | - | [slides](slides/L7-AST1501-2023-proposals-I.pdf) |
 | Nov. 7   | **No class, reading week** | - |  |
 | Nov. 9   | **No class, reading week** | **Peer feedback on proposal** |  |
-| Nov. 14  | How to access astronomical data | - |  |
+| Nov. 14  | How to access astronomical data | - | [slides](slides/L8-AST1501-2023-data.pdf) |
 | Nov. 16  | Faculty intros: Roberto Abraham, Hanno Rein (remote), Chris Matzner | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 23  | Basic stats intro I (Gwen Eadie)  | - |  |
