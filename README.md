@@ -124,9 +124,9 @@ Fall term:
 | Nov. 14  | How to access astronomical data | - | [slides](slides/L8-AST1501-2023-data.pdf) |
 | Nov. 16  | Faculty intros: Roberto Abraham, Hanno Rein (remote), Chris Matzner | **Revised proposal** |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
-| Nov. 23  | Basic stats intro I (Gwen Eadie)  | - |  |
+| Nov. 23  | Basic stats intro I (Gwen Eadie)  | - | [slides](slides/AST1501_GuestLecture1_2023-11-22.pdf), [Univariate distributions Interactive Chart](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html) |
 | Nov. 28  | Presentations  | **Proposal presentations**  |  |
-| Nov. 30  | Basic stats intro II (Gwen Eadie)  | - |  |
+| Nov. 30  | Basic stats intro II (Gwen Eadie)  | - | [slides](slides/AST1501_GuestLecture2_2023-11-30.pdf), [confidence intervals applet](https://www.rossmanchance.com/applets/2021/confsim/ConfSim.html) |
 | Dec. 5   | End-of-term check-in  | - |  |
 | Dec. 7   | End-of-term check-in  | - |  |
 
