@@ -137,8 +137,8 @@ Winter term (tentative):
 | -------- | -------- | ----------- | ----------- |
 | Jan. 8   | Welcome back, goals for the term  | - |  |
 | Jan. 11  | How to make a website  | - |  |
-| Jan. 15  | How to make a good plot | - |  |
-| Jan. 18  | How to write an observing proposal (Ting Li?)  | - |  |
+| Jan. 15  | ~~How to write an observing proposal (Ting Li?)~~ | - |  |
+| Jan. 18  | How to make a good plot | - |  |
 | Jan. 22  | Mid-project check-in | - |  |
 | Jan. 25  | Mid-project check-in | - |  |
 | Jan. 29  | Presentations  | **Mid-project presentations** |  |
