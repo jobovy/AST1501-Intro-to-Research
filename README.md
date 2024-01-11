@@ -136,7 +136,7 @@ Winter term (tentative):
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
 | Jan. 8   | Welcome back, goals for the term  | - |  |
-| Jan. 11  | How to make a website  | [slides](slides/L9-AST1501-2023-website.pdf) |  |
+| Jan. 11  | How to make a website  |  | [slides](slides/L9-AST1501-2023-website.pdf) |
 | Jan. 15  | ~~How to write an observing proposal (Ting Li?)~~ | - |  |
 | Jan. 18  | How to make a good plot | - |  |
 | Jan. 22  | Mid-project check-in | - |  |
