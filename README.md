@@ -138,7 +138,7 @@ Winter term (tentative):
 | Jan. 8   | Welcome back, goals for the term  | - |  |
 | Jan. 11  | How to make a website  |  | [slides](slides/L9-AST1501-2023-website.pdf) |
 | Jan. 15  | ~~How to write an observing proposal (Ting Li?)~~ | - |  |
-| Jan. 18  | How to make a good plot | - |  |
+| Jan. 18  | How to make a good plot | - | [slides](slides/L10-AST1501-2023-plots.pdf) |
 | Jan. 22  | Mid-project check-in | - |  |
 | Jan. 25  | Mid-project check-in | - |  |
 | Jan. 29  | Presentations  | **Mid-project presentations** |  |
