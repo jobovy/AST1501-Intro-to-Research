@@ -145,7 +145,7 @@ Winter term (tentative):
 | Feb. 1   | Presentations  | **Mid-project presentations** |  |
 | Feb. 5   | **No class** | - |  |
 | Feb. 8   | **No class** | - |  |
-| Feb. 12  | Automating tasks | - |  |
+| Feb. 12  | Automating tasks | - | [slides](slides/L11-AST1501-2023-automating.pdf) |
 | Feb. 15  | Using coding tools | - |  |
 | Feb. 19  | **No class (Reading week)**  |  |  |
 | Feb. 22  | **No class (Reading week)**   |  |  |
