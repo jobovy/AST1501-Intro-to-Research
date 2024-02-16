@@ -146,7 +146,7 @@ Winter term (tentative):
 | Feb. 5   | **No class** | - |  |
 | Feb. 8   | **No class** | - |  |
 | Feb. 12  | Automating tasks | - | [slides](slides/L11-AST1501-2023-automating.pdf) |
-| Feb. 15  | Using coding tools | - |  |
+| Feb. 15  | Using coding tools | - | [slides](slides/L12-AST1501-2023-codingtools.pdf) |
 | Feb. 19  | **No class (Reading week)**  |  |  |
 | Feb. 22  | **No class (Reading week)**   |  |  |
 | Feb. 26  | Testing code |  **Abstract for final talk** | |
