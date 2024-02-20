@@ -36,6 +36,14 @@ The final paper should be submitted by email to the course instructor by the dea
 both as an attached PDF file and as a link to the Overleaf project. You will also have 
 to email your proposal to your assigned peers (see below).
 
+## Abstract for final talk
+
+The abstract for your final talk is due on Feb 26. This abstract should be written in 
+the style of a conference abstract and it should be less than 250 words long. A good 
+abstract should introduce the problem you are working on, the methods you are using,
+and give some indication of the results you have obtained. The 
+abstract should be submitted by email to the course instructor.
+
 ## Peer feedback
 
 Once you have written a first draft of your final paper, you will exchange your proposal
