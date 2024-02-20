@@ -69,7 +69,7 @@ All submission deadlines are at 5pm of the day listed below.
   * Presentations: Nov. 21, 28
 * **Mid-project presentation**: Jan. 29 and Feb. 1
 * **Abstract for final talk**: Feb. 26
-* **Final project**: 
+* [**Final project**](Final.md): 
   * First draft: Mar. 21
   * Peer feedback: Mar. 29
   * Revised draft: Apr. 5
