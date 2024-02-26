@@ -149,7 +149,7 @@ Winter term (tentative):
 | Feb. 15  | Using coding tools | - | [slides](slides/L12-AST1501-2023-codingtools.pdf) |
 | Feb. 19  | **No class (Reading week)**  |  |  |
 | Feb. 22  | **No class (Reading week)**   |  |  |
-| Feb. 26  | Testing code |  **Abstract for final talk** | |
+| Feb. 26  | Testing code |  **Abstract for final talk** | [slides](slides/L13-AST1501-2023-codetests.pdf) |
 | Feb. 29  | Documenting code | - |  |
 | Mar. 4   | Referee reports | - |  |
 | Mar. 7   | Collaborations large and small | - |  |
