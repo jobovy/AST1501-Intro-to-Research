@@ -152,15 +152,15 @@ Winter term (tentative):
 | Feb. 26  | Testing code |  **Abstract for final talk** | [slides](slides/L13-AST1501-2023-codetests.pdf) |
 | Feb. 29  | Documenting code | - |  |
 | Mar. 4   | Referee reports | - |  |
-| Mar. 7   | Collaborations large and small | - |  |
-| Mar. 11  | TBD  | - |  |
-| Mar. 14  | TBD  | - |  |
-| Mar. 18  | TBD  |  **AST1500 supervisor** | |
-| Mar. 21  | TBD  | - |  |
-| Mar. 25  | TBD  | - |  |
-| Mar. 28  | TBD  | - |  |
-| Apr. 1   | TBD  | - |  |
-| Apr. 4   | TBD  | - |  |
+| Mar. 7   | No class | - |  |
+| Mar. 11  | No class  | - |  |
+| Mar. 14  | No class  | - |  |
+| Mar. 18  | No class  |  **AST1500 supervisor** | |
+| Mar. 21  | No class  | - |  |
+| Mar. 25  | No class  | - |  |
+| Mar. 28  | No class  | - |  |
+| Apr. 1   | No class  | - |  |
+| Apr. 4   | No class  | - |  |
 
 
 
