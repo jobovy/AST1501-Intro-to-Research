@@ -85,7 +85,7 @@ All submission deadlines are at 5pm of the day listed below.
   * Presentations: 5%
 * Monthly check-ins: 10%
 * Mid-project presentation: 15%
-* Final project: 30%, breakdown:
+* [Final project](Final.md): 30%, breakdown:
   * First draft: 8%
   * Peer feedback: 7%
   * Revised draft: 5%
