@@ -1,6 +1,6 @@
 # The final project
 
-THe final part of your research project is to write up a summary of your project 
+The final part of your research project is to write up a summary of your project 
 in the style of a scientific paper. Like for the proposal, this paper will be improved 
 by feedback from your peers. You will also present your final project to the class
 at the end of the semester.
