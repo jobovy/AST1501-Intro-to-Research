@@ -11,9 +11,9 @@ For quick reference, here are the various deadlines for the final project:
 
   * **Abstract for final talk**: Feb. 26
   * **First draft**: Mar. 21
-  * **Peer feedback**: Mar. 29
-  * **Revised draft**: Apr. 5
-  * **Presentations**: mid April
+  * **Peer feedback**: ~~Mar. 29~~ --> Apr. 3
+  * **Revised draft**: ~~Apr. 5~~ --> Apr. 10
+  * **Presentations**: Apr. 11, 15, and 18
 
 ## Final project write-up guidelines
 
