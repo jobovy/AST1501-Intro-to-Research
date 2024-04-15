@@ -61,6 +61,8 @@ By the end of the 15011/1500 set of courses, students should:
 
 All submission deadlines are at 5pm of the day listed below.
 
+### 1501
+
 * **Project supervisor**: Oct. 5
 * [**Project proposal**](Proposal.md):
   * First draft: Oct. 31
@@ -74,6 +76,20 @@ All submission deadlines are at 5pm of the day listed below.
   * Peer feedback: ~~Mar. 29~~ --> Apr. 3
   * Revised draft: ~~Apr. 5~~ --> Apr. 10
   * Presentations: Apr. 11, 15, and 18
+
+### 1500
+
+* **Project supervisor**: Mar. 18
+* [**Project proposal**](Proposal.md):
+  * First draft: Jun. 12
+  * Peer feedback: Jun. 19
+  * Revised draft: Jun. 26
+* **Abstract for final talk**: Jul. 31
+* [**Final project**](Final.md): 
+  * First draft: Aug. 14
+  * Peer feedback: Aug. 21
+  * Revised draft: Aug. 28
+  * Presentations: Late August
 
 ## Grading scheme
 
