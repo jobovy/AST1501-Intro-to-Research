@@ -87,9 +87,9 @@ All submission deadlines are at 5pm of the day listed below.
 * **Abstract for final talk**: Jul. 31
 * [**Final project**](Final.md): 
   * First draft: Aug. 14
-  * Peer feedback: Aug. 21
-  * Revised draft: Aug. 28
-  * Presentations: Late August
+  * Peer feedback: Aug. 28
+  * Revised draft: Sept. 5
+  * Presentations: Early September
 
 ## Grading scheme
 
