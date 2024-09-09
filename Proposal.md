@@ -13,9 +13,9 @@ proposal to the class at the end of November.
 For quick reference, here are the various deadlines for the proposal:
 
 * **First draft**: Oct. 31
-* **Peer feedback**: Nov. 9
-* **Revised draft**: Nov. 16
-* **Presentations**: Nov. 21, 28
+* **Peer feedback**: Nov. 12
+* **Revised draft**: Nov. 14
+* **Presentations**: Late November, early December
 
 ## Proposal guidelines
 
