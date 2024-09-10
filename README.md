@@ -124,9 +124,9 @@ Fall term:
 | Sept. 17 | Faculty intros: Ting Li, Adam Hincks | - |  |
 | Sept. 19 | Faculty intros: X, Renee Hlozek | - |  |
 | Sept. 24 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2023-intro-writing.pdf) |
-| Sept. 26 | Faculty intros | - |  |
+| Sept. 26 | Faculty intros: Dae-Sik Moon, Maya Fishbach | - |  |
 | Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2023-intro-computing.pdf) |
-| Oct. 3   | Library resources (NuRee Lee; TBC)  | - |  |
+| Oct. 3   | Library resources (NuRee Lee)  | - |  |
 | Oct. 8   | Faculty intros: Bart Ripperda, Bob Abraham | - |  |
 | Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/L5-AST1501-2023-intro-computing-II.pdf) |
 | Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/L6-AST1501-2023-intro-computing-III.pdf) |
@@ -135,7 +135,7 @@ Fall term:
 | Oct. 24  | Proposal co-writing session | - |  |
 | Oct. 29  | **No class, reading week** | - |  |
 | Oct. 31  | **No class, reading week** | **Draft project proposal** | - |
-| Nov. 5   | Faculty intros: Hanno Rein | - |  |
+| Nov. 5   | Faculty intros: Hanno Rein, Juan Mena-Parra | - |  |
 | Nov. 7   | How to write a good research application | - | [slides](slides/L7-AST1501-2023-proposals-I.pdf) |
 | Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/L8-AST1501-2023-data.pdf) |
 | Nov. 14  | Faculty intros | **Revised proposal** |  |
