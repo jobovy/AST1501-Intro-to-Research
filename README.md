@@ -123,21 +123,21 @@ Fall term:
 | Sept. 12 | The business of being a graduate student | - | [slides](slides/L2-AST1501-2024-being-a-grad-student.pdf) |
 | Sept. 17 | Faculty intros: Ting Li, Adam Hincks | - |  |
 | Sept. 19 | Faculty intros: X, Renee Hlozek | - |  |
-| Sept. 24 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2023-intro-writing.pdf) |
+| Sept. 24 | Intro to writing in astronomy | - | [slides](slides/2023/L3-AST1501-2023-intro-writing.pdf) |
 | Sept. 26 | Faculty intros: Dae-Sik Moon, Maya Fishbach | - |  |
-| Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2023-intro-computing.pdf) |
+| Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/2023/L4-AST1501-2023-intro-computing.pdf) |
 | Oct. 3   | Library resources (NuRee Lee)  | - |  |
 | Oct. 8   | Faculty intros: Bart Ripperda, Bob Abraham | - |  |
-| Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/L5-AST1501-2023-intro-computing-II.pdf) |
-| Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/L6-AST1501-2023-intro-computing-III.pdf) |
+| Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/2023/L5-AST1501-2023-intro-computing-II.pdf) |
+| Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/2023/L6-AST1501-2023-intro-computing-III.pdf) |
 | Oct. 17  | Faculty intros | - |  |
-| Oct. 22  | How to write a good research application | - | [slides](slides/L7-AST1501-2023-proposals-I.pdf) |
+| Oct. 22  | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
 | Oct. 24  | Proposal co-writing session | - |  |
 | Oct. 29  | **No class, reading week** | - |  |
 | Oct. 31  | **No class, reading week** | **Draft project proposal** | - |
 | Nov. 5   | Faculty intros: Hanno Rein, Juan Mena-Parra | - |  |
-| Nov. 7   | How to write a good research application | - | [slides](slides/L7-AST1501-2023-proposals-I.pdf) |
-| Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/L8-AST1501-2023-data.pdf) |
+| Nov. 7   | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
+| Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/2023/L8-AST1501-2023-data.pdf) |
 | Nov. 14  | Faculty intros | **Revised proposal** |  |
 | Nov. 19  | Writing workshop (Dan Newman) | - |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
@@ -153,24 +153,24 @@ Winter term (tentative):
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
 | Jan. 7   | Welcome back, goals for the term  | - |  |
-| Jan. 9   | How to make a website  |  | [slides](slides/L9-AST1501-2023-website.pdf) |
+| Jan. 9   | How to make a website  |  | [slides](slides/2023/L9-AST1501-2023-website.pdf) |
 | Jan. 14  | Faculty intros: X, Chris Thompson | - |  |
-| Jan. 16  | How to make a good plot | - | [slides](slides/L10-AST1501-2023-plots.pdf) |
+| Jan. 16  | How to make a good plot | - | [slides](slides/2023/L10-AST1501-2023-plots.pdf) |
 | Jan. 21  | - | - |  |
 | Jan. 23  | Faculty intros | - |  |
 | Jan. 28  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
 | Jan. 30  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
-| Feb. 4   | Automating tasks | - | [slides](slides/L11-AST1501-2023-automating.pdf) |
-| Feb. 6   | Using coding tools | - | [slides](slides/L12-AST1501-2023-codingtools.pdf) |
+| Feb. 4   | Automating tasks | - | [slides](slides/2023/L11-AST1501-2023-automating.pdf) |
+| Feb. 6   | Using coding tools | - | [slides](slides/2023/L12-AST1501-2023-codingtools.pdf) |
 | Feb. 11  | **No class** | - | - |
 | Feb. 13  | **No class** | - | - |
 | Feb. 18  | **No class (Reading week)**  |  |  |
 | Feb. 20  | **No class (Reading week)**   |  |  |
-| Feb. 25  | Testing code |  **Abstract for final talk** | [slides](slides/L13-AST1501-2023-codetests.pdf) |
-| Feb. 27  | Documenting code | - | [slides](slides/L14-AST1501-2023-documentation.pdf) |
+| Feb. 25  | Testing code |  **Abstract for final talk** | [slides](slides/2023/L13-AST1501-2023-codetests.pdf) |
+| Feb. 27  | Documenting code | - | [slides](slides/2023/L14-AST1501-2023-documentation.pdf) |
 | Mar. 4   | - | - |  |
 | Mar. 6   | No class | - |  |
-| Mar. 11  | Referee reports  | - | [slides](slides/L15-AST1501-2023-refereeing.pdf) |
+| Mar. 11  | Referee reports  | - | [slides](slides/2023/L15-AST1501-2023-refereeing.pdf) |
 | Mar. 13  | No class  | - |  |
 | Mar. 18  | No class  |  **AST1500 supervisor** | |
 | Mar. 20  | No class  | - | **Draft final write-up** |
