@@ -120,7 +120,7 @@ Fall term:
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
 | Sept. 10 | Intro    | - | [slides](slides/L1-AST1501-2024-intro.pdf) |
-| Sept. 12 | The business of being a graduate student | - | [slides](slides/L2-AST1501-2023-being-a-grad-student.pdf) |
+| Sept. 12 | The business of being a graduate student | - | [slides](slides/L2-AST1501-2024-being-a-grad-student.pdf) |
 | Sept. 17 | Faculty intros: Ting Li, Adam Hincks | - |  |
 | Sept. 19 | Faculty intros: X, Renee Hlozek | - |  |
 | Sept. 24 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2023-intro-writing.pdf) |
