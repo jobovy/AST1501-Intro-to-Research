@@ -157,7 +157,7 @@ Winter term (tentative):
 | Jan. 14  | Faculty intros: X, Chris Thompson | - |  |
 | Jan. 16  | How to make a good plot | - | [slides](slides/2023/L10-AST1501-2023-plots.pdf) |
 | Jan. 21  | - | - |  |
-| Jan. 23  | Faculty intros | - |  |
+| Jan. 23  | Faculty intros: Laurie Rousseau-Nepton | - |  |
 | Jan. 28  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
 | Jan. 30  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
 | Feb. 4   | Automating tasks | - | [slides](slides/2023/L11-AST1501-2023-automating.pdf) |
