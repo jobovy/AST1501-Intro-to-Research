@@ -123,14 +123,14 @@ Fall term:
 | Sept. 12 | The business of being a graduate student | - | [slides](slides/L2-AST1501-2024-being-a-grad-student.pdf) |
 | Sept. 17 | Faculty intros: Ting Li, Adam Hincks | - |  |
 | Sept. 19 | Faculty intros: Keith Vanderlinde, Renee Hlozek | - |  |
-| Sept. 24 | Intro to writing in astronomy | - | [slides](slides/2023/L3-AST1501-2023-intro-writing.pdf) |
+| Sept. 24 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2024-intro-writing.pdf) |
 | Sept. 26 | Faculty intros: Dae-Sik Moon, Maya Fishbach | - |  |
 | Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/2023/L4-AST1501-2023-intro-computing.pdf) |
 | Oct. 3   | Library resources (NuRee Lee)  | - |  |
 | Oct. 8   | Faculty intros: Bart Ripperda, Bob Abraham | - |  |
 | Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/2023/L5-AST1501-2023-intro-computing-II.pdf) |
 | Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/2023/L6-AST1501-2023-intro-computing-III.pdf) |
-| Oct. 17  | Faculty intros | - |  |
+| Oct. 17  | Faculty intros: Marten van Kerkwijk | - |  |
 | Oct. 22  | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
 | Oct. 24  | Proposal co-writing session | - |  |
 | Oct. 29  | **No class, reading week** | - |  |
