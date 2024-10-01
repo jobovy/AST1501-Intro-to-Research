@@ -125,7 +125,7 @@ Fall term:
 | Sept. 19 | Faculty intros: Keith Vanderlinde, Renee Hlozek | - |  |
 | Sept. 24 | Intro to writing in astronomy | - | [slides](slides/L3-AST1501-2024-intro-writing.pdf) |
 | Sept. 26 | Faculty intros: Dae-Sik Moon, Maya Fishbach | - |  |
-| Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/2023/L4-AST1501-2023-intro-computing.pdf) |
+| Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2024-intro-computing.pdf) |
 | Oct. 3   | Library resources (NuRee Lee)  | - |  |
 | Oct. 8   | Faculty intros: Bart Ripperda, Bob Abraham | - |  |
 | Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/2023/L5-AST1501-2023-intro-computing-II.pdf) |
