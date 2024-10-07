@@ -130,7 +130,7 @@ Fall term:
 | Oct. 8   | Faculty intros: Bart Ripperda, Bob Abraham | - |  |
 | Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/2023/L5-AST1501-2023-intro-computing-II.pdf) |
 | Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/2023/L6-AST1501-2023-intro-computing-III.pdf) |
-| Oct. 17  | Faculty intros: Marten van Kerkwijk | - |  |
+| Oct. 17  | Faculty intros: Marten van Kerkwijk, Suresh Sivanandam | - |  |
 | Oct. 22  | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
 | Oct. 24  | Proposal co-writing session | - |  |
 | Oct. 29  | **No class, reading week** | - |  |
@@ -138,7 +138,7 @@ Fall term:
 | Nov. 5   | Faculty intros: Hanno Rein, Juan Mena-Parra | - |  |
 | Nov. 7   | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
 | Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/2023/L8-AST1501-2023-data.pdf) |
-| Nov. 14  | Faculty intros | **Revised proposal** |  |
+| Nov. 14  | Faculty intros: Chris Matzner, Yanqin Wu | **Revised proposal** |  |
 | Nov. 19  | Writing workshop (Dan Newman) | - |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 26  | Presentations  | **Proposal presentations**  |  |
@@ -154,10 +154,10 @@ Winter term (tentative):
 | -------- | -------- | ----------- | ----------- |
 | Jan. 7   | Welcome back, goals for the term  | - |  |
 | Jan. 9   | How to make a website  |  | [slides](slides/2023/L9-AST1501-2023-website.pdf) |
-| Jan. 14  | Faculty intros: X, Chris Thompson | - |  |
+| Jan. 14  | Faculty intros: Reed Essick, Chris Thompson | - |  |
 | Jan. 16  | How to make a good plot | - | [slides](slides/2023/L10-AST1501-2023-plots.pdf) |
 | Jan. 21  | - | - |  |
-| Jan. 23  | Faculty intros: Laurie Rousseau-Nepton | - |  |
+| Jan. 23  | Faculty intros: Laurie Rousseau-Nepton, Maria Drout | - |  |
 | Jan. 28  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
 | Jan. 30  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
 | Feb. 4   | Automating tasks | - | [slides](slides/2023/L11-AST1501-2023-automating.pdf) |
