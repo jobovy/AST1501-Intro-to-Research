@@ -128,7 +128,7 @@ Fall term:
 | Oct. 1   | Intro to computing in astro I | - | [git and GitHub intro](https://pythonpackaging.info/03-git-and-GitHub.html), [GitHub education benefits](https://education.github.com/benefits), [slides](slides/L4-AST1501-2024-intro-computing.pdf) |
 | Oct. 3   | Library resources (NuRee Lee)  | - |  |
 | Oct. 8   | Faculty intros: Bart Ripperda, ~~Bob Abraham~~ | - |  |
-| Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/2023/L5-AST1501-2023-intro-computing-II.pdf) |
+| Oct. 10  | Intro to computing in astro II | **Project supervisor** | [slides](slides/L5-AST1501-2024-intro-computing-II.pdf) |
 | Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/2023/L6-AST1501-2023-intro-computing-III.pdf) |
 | Oct. 17  | Faculty intros: Bob Abraham, Suresh Sivanandam | - |  |
 | Oct. 22  | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
