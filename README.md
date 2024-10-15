@@ -132,7 +132,7 @@ Fall term:
 | Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/2023/L6-AST1501-2023-intro-computing-III.pdf) |
 | Oct. 17  | Faculty intros: Bob Abraham, Suresh Sivanandam | - |  |
 | Oct. 22  | How to write a good research application | - | [slides](slides/2023/L7-AST1501-2023-proposals-I.pdf) |
-| Oct. 24  | Proposal co-writing session | - |  |
+| Oct. 24  | Lit Qual Q&A + Proposal co-writing session | - |  |
 | Oct. 29  | **No class, reading week** | - |  |
 | Oct. 31  | **No class, reading week** | **Draft project proposal** | - |
 | Nov. 5   | Faculty intros: Hanno Rein, Juan Mena-Parra | - |  |
