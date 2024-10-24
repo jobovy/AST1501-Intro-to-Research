@@ -132,7 +132,7 @@ Fall term:
 | Oct. 15  | Intro to computing in astro IIII | - | [slides](slides/L6-AST1501-2024-intro-computing-III.pdf) |
 | Oct. 17  | Faculty intros: Bob Abraham, Suresh Sivanandam | - |  |
 | Oct. 22  | How to write a good research application | - | [slides](slides/L7-AST1501-2024-proposals-I.pdf) |
-| Oct. 24  | Lit Qual Q&A + Proposal co-writing session | - |  |
+| Oct. 24  | Lit Qual Q&A + Proposal co-writing session | - | [Dept website about Lit QUals](https://www.astro.utoronto.ca/academics/graduate-studies/current/phd-program/quals/), [Literature Qualifiers Paper Bank](https://utoronto.sharepoint.com/:f:/s/ArtSci-AST/adminsite/ErF69VFmD-JKkcmfzYHWzEsB1GjIb0fN2EGIPX5uQBYJzw) |
 | Oct. 29  | **No class, reading week** | - |  |
 | Oct. 31  | **No class, reading week** | **Draft project proposal** | - |
 | Nov. 5   | Faculty intros: Hanno Rein, Juan Mena-Parra | - |  |
