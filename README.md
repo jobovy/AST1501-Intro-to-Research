@@ -137,7 +137,7 @@ Fall term:
 | Oct. 31  | **No class, reading week** | **Draft project proposal** | - |
 | Nov. 5   | Faculty intros: Hanno Rein, Juan Mena-Parra | - |  |
 | Nov. 7   | No class | - | |
-| Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/2023/L8-AST1501-2023-data.pdf) |
+| Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/L8-AST1501-2024-data.pdf) |
 | Nov. 14  | Faculty intros: Chris Matzner, Yanqin Wu | **Revised proposal** |  |
 | Nov. 19  | Writing workshop (Dan Newman) | - |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
