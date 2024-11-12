@@ -93,6 +93,12 @@ All submission deadlines are at 5pm of the day listed below.
 
 ## Grading scheme
 
+### 1501
+
+Supervisor feedback: 30%.
+
+Class work: 70%, with breakdown:
+
 * Participation in class and department events (colloquia, TASTY, etc.): 25%
 * [Project proposal](Proposal.md): 20%, breakdown:
   * First draft: 5%
@@ -106,6 +112,20 @@ All submission deadlines are at 5pm of the day listed below.
   * Peer feedback: 7%
   * Revised draft: 5%
   * Presentations: 10%
+
+### 1500
+
+* Supervisor feedback: 40%
+* Participation in class and department events (colloquia, TASTY, etc.): 10%
+* [Project proposal](Proposal.md): 20%, breakdown:
+  * First draft: 7%
+  * Peer feedback: 6%
+  * Revised draft: 7%
+* [Final project](Final.md): 30%, breakdown:
+  * First draft: 8%
+  * Peer feedback: 7%
+  * Revised draft: 5%
+  * Presentations: 10%  
 
 Expectations:
 * You are expected to (and encouraged to!) to get feedback on your proposal, presentations, and final write-up from your supervisor, research-group co-workers, and 1501/1500 classmates. But any work that you submit should be your own work. If you use someone else's work, you should cite it. If you use someone else's code, you should cite it and make sure that you understand it. Refer to the [University of Toronto's Code of Behaviour on Academic Matters](http://www.governingcouncil.utoronto.ca/policies/behaveac.htm) for full details regarding correct academic behavior and the avoidance of plagiarism.
