@@ -58,7 +58,8 @@ proposal's author and the course instructor by the deadline.
 
 After receiving feedback from your peers, you should revise your proposal and submit
 a revised draft. The revised draft should be submitted to the course instructor by the
-deadline, again as a PDF file and as a link to the Overleaf project.
+deadline, again as a PDF file and as a link to the Overleaf project. Please also include
+a brief response to the peer feedback you received.
 
 ## Presentations
 
