@@ -159,7 +159,7 @@ Fall term:
 | Nov. 7   | No class | - | |
 | Nov. 12  | How to access astronomical data | **Peer feedback on proposal** | [slides](slides/L8-AST1501-2024-data.pdf) |
 | Nov. 14  | Faculty intros: Chris Matzner, Yanqin Wu | **Revised proposal** |  |
-| Nov. 19  | Writing workshop (Dan Newman) | - |  |
+| Nov. 19  | Writing workshop (Dan Newman) **in AB88!!** | - |  |
 | Nov. 21  | Presentations  | **Proposal presentations** |  |
 | Nov. 26  | Presentations  | **Proposal presentations**  |  |
 | Nov. 28  | Presentations  | **Proposal presentations** |  |
