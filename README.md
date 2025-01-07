@@ -172,7 +172,7 @@ Winter term (tentative):
 
 |   Date   |   Topic  | Deliverable | Material(s) |
 | -------- | -------- | ----------- | ----------- |
-| Jan. 7   | Welcome back, goals for the term  | - |  |
+| Jan. 7   | Welcome back, goals for the term  | - | [slides](slides/L9-AST1501-2024-winter-intro.pdf) |
 | Jan. 9   | How to make a website  |  | [slides](slides/2023/L9-AST1501-2023-website.pdf) |
 | Jan. 14  | Faculty intros: Reed Essick, Chris Thompson | - |  |
 | Jan. 16  | How to make a good plot | - | [slides](slides/2023/L10-AST1501-2023-plots.pdf) |
