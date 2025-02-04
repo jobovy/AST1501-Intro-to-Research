@@ -180,8 +180,8 @@ Winter term (tentative):
 | Jan. 23  | Faculty intros: Laurie Rousseau-Nepton, Maria Drout | - |  |
 | Jan. 28  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
 | Jan. 30  | Two-slide mid-term updates  | **Two-slide mid-term updates** |  |
-| Feb. 4   | Automating tasks | - | [slides](slides/2023/L11-AST1501-2023-automating.pdf) |
-| Feb. 6   | Using coding tools | - | [slides](slides/2023/L12-AST1501-2023-codingtools.pdf) |
+| Feb. 4   | Automating tasks | - | [slides](slides/L12-AST1501-2024-automating.pdf) |
+| Feb. 6   | Using coding tools | - | [slides](slides/L13-AST1501-2024-codingtools.pdf) |
 | Feb. 11  | **No class** | - | - |
 | Feb. 13  | **No class** | - | - |
 | Feb. 18  | **No class (Reading week)**  |  |  |
