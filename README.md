@@ -186,8 +186,8 @@ Winter term (tentative):
 | Feb. 13  | **No class** | - | - |
 | Feb. 18  | **No class (Reading week)**  |  |  |
 | Feb. 20  | **No class (Reading week)**   |  |  |
-| Feb. 25  | Testing code |  **Abstract for final talk** | [slides](slides/2023/L13-AST1501-2023-codetests.pdf) |
-| Feb. 27  | Documenting code | - | [slides](slides/2023/L14-AST1501-2023-documentation.pdf) |
+| Feb. 25  | Testing code |  **Abstract for final talk** | [slides](slides/L14-AST1501-2024-codetests.pdf) |
+| Feb. 27  | Documenting code | - | [slides](slides/L15-AST1501-2024-documentation.pdf) |
 | Mar. 4   | - | - |  |
 | Mar. 6   | No class | - |  |
 | Mar. 11  | Referee reports  | - | [slides](slides/2023/L15-AST1501-2023-refereeing.pdf) |
