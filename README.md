@@ -190,8 +190,8 @@ Winter term (tentative):
 | Feb. 27  | Documenting code | - | [slides](slides/L15-AST1501-2024-documentation.pdf) |
 | Mar. 4   | Referee reports  | - | [slides](slides/2023/L15-AST1501-2023-refereeing.pdf) |
 | Mar. 6   | No class  | - |  |
-| Mar. 11  | No class  | - | |
-| Mar. 13  | No class  | - |  |
+| Mar. 11  | Guest lecture: observing proposals I (Ting Li) | - | |
+| Mar. 13  | Guest lecture: observing proposals II (Ting Li)  | - |  |
 | Mar. 18  | No class  |  **AST1500 supervisor** | |
 | Mar. 20  | No class  | - | **Draft final write-up** |
 | Mar. 25  | No class  | - |  |
