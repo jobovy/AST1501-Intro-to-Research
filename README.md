@@ -74,7 +74,7 @@ All submission deadlines are at 5pm of the day listed below.
 * [**Final project**](Final.md): 
   * First draft: Mar. 20
   * Peer feedback: Apr. 1
-  * Revised draft: Apr. 3
+  * Revised draft: Apr. 8
   * Presentations: Mid-April
 
 ### 1500 (TBC)
@@ -197,7 +197,9 @@ Winter term (tentative):
 | Mar. 25  | No class  | - |  |
 | Mar. 27  | No class  | - |  |
 | Apr. 1   | No class  | - | **Peer feedback on final write-up** |
-| Apr. 3   | No class  | - | **Revised final write-up** |
+| Apr. 3   | No class  | - |  |
+| Apr. 8   | Final presentations (2-4pm)  | - | **Revised final write-up** |
+| Apr. 10   | Final presentations (2-4pm)  | - |  |
 
 
 
